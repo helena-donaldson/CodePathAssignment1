@@ -1,6 +1,6 @@
 # CodePathAssignment1
 
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Women in Computing Resources
 
 Submitted by: Helena Donaldson
 
@@ -37,14 +37,11 @@ I added a nice underline animation for hovering over buttons as well as cute fon
 
 Here's a walkthrough of implemented required features:
 
-<a href='https://rose-hulman.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea50c5e-1ec4-47a4-8366-b2f5013c1fe9'><a/>
+<img src='https://imgur.com/a/sCWyfp0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+ScreenToGif
 
 ## Notes
 
