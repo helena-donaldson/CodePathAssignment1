@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 - [X] **At least 10 unique events or resources are displayed in a responsive card format**
   - [X] There are at least 10 cards displayed 
   - [X] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [] Each card should include some information about the event or resource
+  - [X] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
@@ -25,18 +25,19 @@ The following **optional** features are implemented:
 - [X] Buttons or links to a related resources are on each card component
   - [X] All cards have buttons or links in addition to text
 - [X] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+  - [X] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
 
-* [] List anything else that you added to improve the site's functionality!
+* [X] List anything else that you added to improve the site's functionality!
 
+I added a nice underline animation for hovering over buttons as well as cute font choices.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://rose-hulman.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea50c5e-1ec4-47a4-8366-b2f5013c1fe9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
