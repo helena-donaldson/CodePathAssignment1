@@ -37,7 +37,7 @@ I added a nice underline animation for hovering over buttons as well as cute fon
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/a/sCWyfp0
+https://imgur.com/gallery/walkthrough-sCWyfp0
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
