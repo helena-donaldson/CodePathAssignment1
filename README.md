@@ -1,6 +1,6 @@
 # CodePathAssignment1
 
-# Web Development Project 1 - Women in Computing Resources
+# Web Development Project 1 - Community Board
 
 Submitted by: Helena Donaldson
 
