@@ -37,7 +37,7 @@ I added a nice underline animation for hovering over buttons as well as cute fon
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://rose-hulman.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea50c5e-1ec4-47a4-8366-b2f5013c1fe9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://rose-hulman.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea50c5e-1ec4-47a4-8366-b2f5013c1fe9'><a/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
